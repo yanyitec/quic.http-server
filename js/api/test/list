@@ -1,0 +1,10 @@
+{
+    "code":0,
+    "data":{
+        "total":2,
+        "list":[
+            {"Id":0,"Name":"yi","Gender":"male"}
+            ,{"Id":1,"Name":"yiy","Gender":"female"}
+        ]
+    }
+}

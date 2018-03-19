@@ -1,0 +1,26 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "noImplicitAny": false,
+        "module":"commonjs",
+        "removeComments": false,
+        "sourceMap": false,
+        "moduleResolution": "node",
+        "typeRoots": [
+            "C:/nodejs/module_global/node_modules/@types"
+        ],
+        "types": [
+            "node"
+        ], 
+        //"outFile": "js/quic.all.js",
+        "outDir": "js",
+        "declarationDir":"typings",
+        "declaration":true     
+     },
+     "include":[
+          "ts"
+      ],
+    "exclude": [
+          "js"
+    ]
+ }
